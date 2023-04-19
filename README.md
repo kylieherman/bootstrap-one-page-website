@@ -9,9 +9,9 @@ No matter how (un)comfortable :sweat_smile: you may feel about coding, there is 
 ## Step 1
 Let's view your live webpage in your repositiry, open ```one-page-website-starter.html``` here in GitHub
 
-[screenshot1]()
+![screenshot1](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/step1a.png)
 
-[screenshot2]()
+![screenshot2](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/step1b.png)
 
 ## Step 2
 
