@@ -7,9 +7,12 @@ Once you've successfully forked the files, please follow the below instructions.
 No matter how (un)comfortable :sweat_smile: you may feel about coding, there is something here for every level. The most important takeaway from this lesson is reading comprehension and following instructions. Don't be intimidated, you got this. Hints also exist in the ```one-page-website-starter.html``` file.
 
 ## What you will learn
-### Get more familiar with Github
-### Introduce yourself to basic web coding
-### Run a local web server right on you GitHub repository
+#### Get more familiar with Github
+#### Use the HTML framework, Bootstrap
+#### Commenting code tips
+#### Introduce yourself to basic web coding
+#### Get to know Lorem Ipsum
+#### Run a local web server right on you GitHub repository
 
 ## Step 1
 Let's view your live webpage in your repository, click the green code button and the click "Open Codespaces"
@@ -49,4 +52,10 @@ We need to use ```href``` to link the ```css/styles.css``` file (this styles our
 Let's continue 👉 with ```href``` now by using external links. Click around on your live webpage. Notice your menu links. Lets add real URLs to them! Pick any website you like and put that website in the ```href``` for each of the three links. then change the text in the menu to reflect what website a person would be clicking on.
 
 ## Step 4
-Let's add to our knowledge of paths and URLs, this time with images using the ```src``` tag. It's basically like href, but it doesn't link out from the webpage, rather brings content in. Go to [https://getavataaars.com/](https://getavataaars.com/) and create an avataar and upload it to the img folder in your repository. If you'd like, you can use the one that is already there. the same way we linked ```css/styles.css``` above, lets now add '''img/myavataarname.png``` to the ```scr=""``` in the ```<img>``` tag. Control-S to save. Preview that it works in your live webpage. 
+Let's add to our knowledge of paths and URLs, this time with images using the ```src``` tag. It's basically like href, but it doesn't link out from the webpage, rather brings content in. Go to [https://getavataaars.com/](https://getavataaars.com/) and create an avataar and upload it to the img folder in your repository. If you'd like, you can use the one that is already there. the same way we linked ```css/styles.css``` above, lets now add ```img/myavataarname.png``` to the ```scr=""``` in the ```<img>``` tag. Control-S to save. Preview that it works in your live webpage.
+
+## Step 5 (Optional)
+The text in the "About Me" and "Header Paragraph" are filled with [Lorem Ipsum text](https://loremipsum.io/) it's what coders use to fill out a web or app page when they don't have actual words from their creative department. Generate some more Loerm Ipsum and build a few more paragraphs from them.
+
+## Step 6
+Our webpage is looking pretty good, but everything is kind of smashed together. Learn about how to use Bootstrap's built in helper CSS classes [here](https://getbootstrap.com/docs/4.0/utilities/spacing/) see which kind of classes you could use to get some more breathing room on top of each of your HTML elements (**hint:** look at the comments in the code, remember comments look like this ```<!-- this is a comment that should give you a hint -->```
