@@ -12,7 +12,7 @@ No matter how (un)comfortable :sweat_smile: you may feel about coding, there is 
 #### Commenting code tips
 #### Introduce yourself to basic web coding
 #### Get to know Lorem Ipsum
-#### Run a local web server right on you GitHub repository
+#### Run a local web server right on your GitHub repository
 
 ## Step 1
 Let's view your live webpage in your repository, click the green code button and the click "Open Codespaces"
