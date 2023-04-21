@@ -76,4 +76,8 @@ Let's add the CSS class ```.social_icons``` to the footer's ```<ul class="">```.
 In this final, optional step, let's add some glow up to our web page. Using Bootstrap's ```border``` utility. [Read the docs] and determine where and at which element borders make sense in an asthetic and progromatic sense. **Note** if you are stuck, check the final file for clues. 
 
 ## Step 9
-Commit your changes to your repository.
+Commit your changes to your repository. Add a message to your commit that describes the work you have done. :dark_sunglasses:
+
+![commit](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/img/commit.gif)
+
+
