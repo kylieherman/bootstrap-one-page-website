@@ -35,6 +35,10 @@ You'll then be prompted with this notification Open in Browser prompt You can cl
 
 ![screenshot1](https://i.stack.imgur.com/B5ho8.png))
 
+:warning: Then do:
+
+![index tree](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/indextree.gif)
+
 You should see something like this:
 
 ![screenshot1](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/step2.png)
