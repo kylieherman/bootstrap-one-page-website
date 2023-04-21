@@ -6,9 +6,12 @@ Once you've successfully forked the files, please follow the below instructions.
 
 No matter how (un)comfortable :sweat_smile: you may feel about coding, there is something here for every level. The most important takeaway from this lesson is reading comprehension and following instructions. Don't be intimidated, you got this. Hints also exist in the ```one-page-website-starter.html``` file.
 
+![How to fork](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/img/fork.gif)
+
 ## What you will learn
 #### Get more familiar with Github
 #### Use the HTML framework, Bootstrap
+#### How to read documentation
 #### Commenting code tips
 #### Introduce yourself to basic web coding
 #### Get to know Lorem Ipsum
