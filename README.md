@@ -22,7 +22,7 @@ Let's view your live webpage in your repository, click the green code button and
 
 ![screenshot1](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/step1.png)
 
-👉 Then click your ```one-page-website-starter.html``` on the left 👈
+👉 Then click your ```one-page-website-starter.html``` on the left 👈 ❗ ```one-page-website-starter.html``` is where we are going to be doing all of our work.
 
 ![screenshot1](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/step1c.png)
 
@@ -35,23 +35,22 @@ You'll then be prompted with this notification Open in Browser prompt You can cl
 
 ![screenshot1](https://i.stack.imgur.com/B5ho8.png))
 
-:warning: Then do:
+❗ Then do:
 
 ![index tree](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/img/indextree.gif)
 
-You should see something like this:
+Now you are looking at your live webpage:
 
 ![screenshot1](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/step2.png)
 
 ## Step 2
 
-Let's explore the ```href``` atrtibute. ```href``` is [simply a link to a file, image or website](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjhi6vW1Lb-AhVe8eMHHbfXCagYABAAGgJ5bQ&ohost=www.google.com&cid=CAESbeD28oHZZWLyNuYi6kIFjHX4ECsklIUw9Qf6Y-wbsMJ2w_b2uXwoiCwXd_lvLediInGFY2-CQxoyaAVmKESjMusTPDvYdGzmK47fJLHoXQAmxPSxRlEKI3t7LaQqJnSmhXMSV2K8_T0iWbWxFjg&sig=AOD64_3xQxaxJJ10ZuOgbjeivWv5kJms4A&q&adurl&ved=2ahUKEwjt-6HW1Lb-AhURjokEHYzkBIUQ0Qx6BAgDEAE) that you can use to display on your web page or click out to visit another. ```one-page-website-starter.html``` is where we are going to be doing all of our work. 
+Let's explore the ```href``` atrtibute. ```href``` is [simply a link to a file, image or website](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjhi6vW1Lb-AhVe8eMHHbfXCagYABAAGgJ5bQ&ohost=www.google.com&cid=CAESbeD28oHZZWLyNuYi6kIFjHX4ECsklIUw9Qf6Y-wbsMJ2w_b2uXwoiCwXd_lvLediInGFY2-CQxoyaAVmKESjMusTPDvYdGzmK47fJLHoXQAmxPSxRlEKI3t7LaQqJnSmhXMSV2K8_T0iWbWxFjg&sig=AOD64_3xQxaxJJ10ZuOgbjeivWv5kJms4A&q&adurl&ved=2ahUKEwjt-6HW1Lb-AhURjokEHYzkBIUQ0Qx6BAgDEAE) that you can use to display on your web page or click out to visit another.  
 
-open ```one-page-website-starter.html``` here in GitHub
+Switch back to your Codespaces tab to your ```one-page-website-starter.html```
 
-![screenshot1](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/step1a.png)
+![screenshot1](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/codespaces.png)
 
-![screenshot2](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/step1b.png)
 
 We need to use ```href``` to link the ```css/styles.css``` file (this styles our code to make it look nice in a web browswer, to our ```.html``` file. There is a comment in the bottom of the ```<head>``` section. Use ```<link rel="stylesheet" href="css file path here">``` to link your style sheet to your web page. The file is in the folder ```css/``` and called ```styles.css```.
 
