@@ -37,7 +37,7 @@ You'll then be prompted with this notification Open in Browser prompt You can cl
 
 :warning: Then do:
 
-![index tree](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/indextree.gif)
+![index tree](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/img/indextree.gif)
 
 You should see something like this:
 
