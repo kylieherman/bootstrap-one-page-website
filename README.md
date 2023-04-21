@@ -62,3 +62,9 @@ Our webpage is looking pretty good, but everything is kind of smashed together. 
 
 ## Step 7
 Let's add the CSS class ```.social_icons``` to the footer's ```<ul class="">```. the ```<ul>``` tag means unordered list, which is why you currently see it displayed as a bulleted list. Naturally, HTML want to *cascade* down the page, meaning it wants to stack on top of each other. If we want things to align horzontally or [**float** or **flex**](https://dev.to/ethanmgustafson/css-float-flexbox-14fg) :surfer: :muscle: we have to do some CSS magic.
+
+## Step 8 (Optional)
+In this final, optional step, let's add some glow up to our web page. Using Bootstrap's ```border``` utility. [Read the docs] and determine where and at which element borders make sense in an asthetic and progromatic sense. **Note** if you are stuck, check the final file for clues. 
+
+## Step 9
+Commit your changes to your repository.
