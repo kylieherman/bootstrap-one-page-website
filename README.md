@@ -49,7 +49,7 @@ Let's explore the ```href``` atrtibute. ```href``` is [simply a link to a file, 
 
 Switch back to your Codespaces tab to your ```one-page-website-starter.html```
 
-![screenshot1](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/codespaces.png)
+![screenshot1](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/img/codespaces.png)
 
 
 We need to use ```href``` to link the ```css/styles.css``` file (this styles our code to make it look nice in a web browswer, to our ```.html``` file. There is a comment in the bottom of the ```<head>``` section. Use ```<link rel="stylesheet" href="css file path here">``` to link your style sheet to your web page. The file is in the folder ```css/``` and called ```styles.css```.
