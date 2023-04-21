@@ -53,7 +53,7 @@ open ```one-page-website-starter.html``` here in GitHub
 
 ![screenshot2](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/step1b.png)
 
-We need to use ```href``` to link the ```css/styles.css``` file (this styles our code to make it look nice in a web browswer, to our ```.html``` file. There is a comment in the bottom of the ```<head>``` section. Use ```<link rel="stylesheet" href="css file path here">``` to link your style sheet to your web page.
+We need to use ```href``` to link the ```css/styles.css``` file (this styles our code to make it look nice in a web browswer, to our ```.html``` file. There is a comment in the bottom of the ```<head>``` section. Use ```<link rel="stylesheet" href="css file path here">``` to link your style sheet to your web page. The file is in the folder ```css/``` and called ```styles.css```.
 
 ## Step 3
 Let's continue 👉 with ```href``` now by using external links. Click around on your live webpage. Notice your menu links. Lets add real URLs to them! Pick any website you like and put that website in the ```href``` for each of the three links. then change the text in the menu to reflect what website a person would be clicking on.
