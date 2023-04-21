@@ -18,7 +18,7 @@ No matter how (un)comfortable :sweat_smile: you may feel about coding, there is 
 #### Run a local web server right on your GitHub repository
 
 ## Step 1
-Let's view your live webpage in your repository, 👉click your ```one-page-website-starter.html``` on the left 👈 click theclick the green code button and the click "Open Codespaces"
+Let's view your live webpage in your repository, 👉click your ```one-page-website-starter.html``` on the left 👈 click the green code button and the click "Open Codespaces"
 
 ![screenshot1](https://github.com/Northern-State-University/bootstrap-one-page-website/blob/main/one%20page%20website/img/step1.png)
 
